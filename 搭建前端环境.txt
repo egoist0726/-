@@ -1,0 +1,1 @@
+在nginx文件夹下创建temp文件夹，在temp文件夹下创建client_body_temp文件夹
